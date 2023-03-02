@@ -9,7 +9,8 @@
 </h1>
 
 <p align="center">
-    💩 [AgileTechPraxis](https://github.com/AgileTechPraxis/CodeSmells) created a very smelly implementation of TicTacToe.
+    💩 <a href="https://github.com/AgileTechPraxis/CodeSmells" target="_blank">AgileTechPraxis</a> 
+    created a very smelly implementation of TicTacToe.
     <br />
     Take a look, play and have fun with this. Just follow the commands below 👇
     <br />
